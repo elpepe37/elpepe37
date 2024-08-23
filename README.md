@@ -23,10 +23,5 @@ Aquí tienes un gráfico circular que muestra los lenguajes que uso más:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elpepe37&layout=compact&theme=radical)
 
-## 🚀 ¡Vamos a Conectar!
-
-Estoy siempre abierto a colaboraciones y a aprender de otros.
+Estoy siempre abierto a colaboraciones y a aprender de otros. Gracias por visitar mi perfil.
 ---
-
-Gracias por visitar mi perfil.
-m
